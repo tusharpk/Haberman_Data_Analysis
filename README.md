@@ -1,6 +1,11 @@
 # Haberman_Data_Analysis
 This project performs Exploratory Data Analysis (EDA) on the Haberman Survival Dataset, a well-known medical dataset used for binary classification problems. The objective is to understand how different patient characteristics influence survival after breast cancer surgery and identify patterns through statistical analysis and visualization.
 
+## 📌 Overview
+
+This project performs **Exploratory Data Analysis (EDA)** on the Haberman Survival Dataset using Python. The goal is to understand the factors that affect patient survival after breast cancer surgery through data visualization and statistical analysis.
+
+
 ## 🎯 Objectives
 
 - Explore the dataset
